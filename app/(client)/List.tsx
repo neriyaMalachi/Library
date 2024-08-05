@@ -21,7 +21,8 @@ const List = () => {
     "flip",
     "animation",
     "cardDetails",
-    "Gallery"
+    "Gallery",
+    "Confetti"
 
   ]);
   console.log(search);
